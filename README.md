@@ -8,6 +8,8 @@
 - Python.
 - Ensinar.
 
+https://media.tenor.com/5UQd-TNy2iYAAAAM/will-ramos-lorna-shore.gif
+
 ### Algumas coisas que não gosto são:
 
 - Pessoas de humanas;
@@ -21,10 +23,6 @@
 - Virtual Riot
 - Camellia
 - The Living Tombstone
-- Little V Mills
-- Grabbitz
-- Sullivan Kings
-- Subtronics
 
 ### Contato:
 
