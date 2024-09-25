@@ -1,4 +1,4 @@
-Olá, eu sou o Eder, tenho 16 anos e atualmente me interesso em:
+### Olá, eu sou o Eder, tenho 16 anos e atualmente me interesso em:
 
 - Matemática;
 - Composição e Produção Musical;
@@ -8,13 +8,13 @@ Olá, eu sou o Eder, tenho 16 anos e atualmente me interesso em:
 - Python.
 - Ensinar.
 
-Algumas coisas que não gosto são:
+### Algumas coisas que não gosto são:
 
 - Pessoas de humanas;
 - Ceder, mesmo que parcialmente, o controle criativo nos meus projetos para outras pessoas;
 - JavaScript.
 
-Meus artistas/bandas favoritas são:
+### Meus artistas/bandas favoritas são:
 
 - Lorna Shore
 - Exit Mouse
@@ -25,3 +25,7 @@ Meus artistas/bandas favoritas são:
 - Grabbitz
 - Sullivan Kings
 - Subtronics
+
+### Contato:
+
+00001142714688sp@al.educacao.sp.gov.br
