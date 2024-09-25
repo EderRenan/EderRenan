@@ -5,7 +5,7 @@
 - Vocalizações agressivas (como as encontradas em **Deathcore** e **Metalcore**);
 - Estudar línguas estrangeiras como _russo_ e _alemão_ (já domino inglês);
 - Sound Design;
-- Python.
+- Python;
 - Ensinar.
 
 ![](https://media.tenor.com/5UQd-TNy2iYAAAAM/will-ramos-lorna-shore.gif)
