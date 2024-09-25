@@ -8,7 +8,7 @@
 - Python.
 - Ensinar.
 
-https://media.tenor.com/5UQd-TNy2iYAAAAM/will-ramos-lorna-shore.gif
+![](https://media.tenor.com/5UQd-TNy2iYAAAAM/will-ramos-lorna-shore.gif)
 
 ### Algumas coisas que não gosto são:
 
