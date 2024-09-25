@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá, eu sou o Eder, tenho 16 anos e atualmente me interesso em:
 
-<!--
-**EderRenan/EderRenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Matemática;
+- Composição e Produção Musical;
+- Vocalizações agressivas (como as encontradas em **Deathcore** e **Metalcore**);
+- Estudar línguas estrangeiras como _russo_ e _alemão_ (já domino inglês);
+- Sound Design;
+- Ensinar.
 
-Here are some ideas to get you started:
+Algumas coisas que não gosto são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pessoas de humanas;
+- Ceder, mesmo que parcialmente, o controle criativo nos meus projetos para outras pessoas.
